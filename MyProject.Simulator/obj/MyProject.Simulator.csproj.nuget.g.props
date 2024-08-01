@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <RestoreSuccess Condition=" '$(RestoreSuccess)' == '' ">True</RestoreSuccess>
+    <RestoreTool Condition=" '$(RestoreTool)' == '' ">NuGet</RestoreTool>
+    <ProjectAssetsFile Condition=" '$(ProjectAssetsFile)' == '' ">$(MSBuildThisFileDirectory)project.assets.json</ProjectAssetsFile>
+    <NuGetPackageRoot Condition=" '$(NuGetPackageRoot)' == '' ">$(UserProfile)\.nuget\packages\</NuGetPackageRoot>
+    <NuGetPackageFolders Condition=" '$(NuGetPackageFolders)' == '' ">C:\Users\jdoep\.nuget\packages\;C:\Program Files\dotnet\sdk\NuGetFallbackFolder</NuGetPackageFolders>
+    <NuGetProjectStyle Condition=" '$(NuGetProjectStyle)' == '' ">PackageReference</NuGetProjectStyle>
+    <NuGetToolVersion Condition=" '$(NuGetToolVersion)' == '' ">6.10.0</NuGetToolVersion>
+  </PropertyGroup>
+  <ItemGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <SourceRoot Include="C:\Users\jdoep\.nuget\packages\" />
+    <SourceRoot Include="C:\Program Files\dotnet\sdk\NuGetFallbackFolder\" />
+  </ItemGroup>
+  <ItemGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <None Include="$(NuGetPackageRoot)opensilver.simulator\3.0.0\contentFiles\any\any\interop_debug_root.html" Condition="Exists('$(NuGetPackageRoot)opensilver.simulator\3.0.0\contentFiles\any\any\interop_debug_root.html')">
+      <NuGetPackageId>OpenSilver.Simulator</NuGetPackageId>
+      <NuGetPackageVersion>3.0.0</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <Pack>false</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>interop_debug_root.html</TargetPath>
+      <Private>True</Private>
+      <Link>interop_debug_root.html</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)opensilver.simulator\3.0.0\contentFiles\any\any\js_css\OpenSilver.js" Condition="Exists('$(NuGetPackageRoot)opensilver.simulator\3.0.0\contentFiles\any\any\js_css\OpenSilver.js')">
+      <NuGetPackageId>OpenSilver.Simulator</NuGetPackageId>
+      <NuGetPackageVersion>3.0.0</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <Pack>false</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>js_css\OpenSilver.js</TargetPath>
+      <DestinationSubDirectory>js_css\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>js_css\OpenSilver.js</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)opensilver.simulator\3.0.0\contentFiles\any\any\js_css\ResizeObserver.js" Condition="Exists('$(NuGetPackageRoot)opensilver.simulator\3.0.0\contentFiles\any\any\js_css\ResizeObserver.js')">
+      <NuGetPackageId>OpenSilver.Simulator</NuGetPackageId>
+      <NuGetPackageVersion>3.0.0</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <Pack>false</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>js_css\ResizeObserver.js</TargetPath>
+      <DestinationSubDirectory>js_css\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>js_css\ResizeObserver.js</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)opensilver.simulator\3.0.0\contentFiles\any\any\js_css\cshtml5.css" Condition="Exists('$(NuGetPackageRoot)opensilver.simulator\3.0.0\contentFiles\any\any\js_css\cshtml5.css')">
+      <NuGetPackageId>OpenSilver.Simulator</NuGetPackageId>
+      <NuGetPackageVersion>3.0.0</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <Pack>false</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>js_css\cshtml5.css</TargetPath>
+      <DestinationSubDirectory>js_css\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>js_css\cshtml5.css</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)opensilver.simulator\3.0.0\contentFiles\any\any\js_css\cshtml5.js" Condition="Exists('$(NuGetPackageRoot)opensilver.simulator\3.0.0\contentFiles\any\any\js_css\cshtml5.js')">
+      <NuGetPackageId>OpenSilver.Simulator</NuGetPackageId>
+      <NuGetPackageVersion>3.0.0</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <Pack>false</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>js_css\cshtml5.js</TargetPath>
+      <DestinationSubDirectory>js_css\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>js_css\cshtml5.js</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)opensilver.simulator\3.0.0\contentFiles\any\any\js_css\quill.core.css" Condition="Exists('$(NuGetPackageRoot)opensilver.simulator\3.0.0\contentFiles\any\any\js_css\quill.core.css')">
+      <NuGetPackageId>OpenSilver.Simulator</NuGetPackageId>
+      <NuGetPackageVersion>3.0.0</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <Pack>false</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>js_css\quill.core.css</TargetPath>
+      <DestinationSubDirectory>js_css\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>js_css\quill.core.css</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)opensilver.simulator\3.0.0\contentFiles\any\any\js_css\quill.min.js" Condition="Exists('$(NuGetPackageRoot)opensilver.simulator\3.0.0\contentFiles\any\any\js_css\quill.min.js')">
+      <NuGetPackageId>OpenSilver.Simulator</NuGetPackageId>
+      <NuGetPackageVersion>3.0.0</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <Pack>false</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>js_css\quill.min.js</TargetPath>
+      <DestinationSubDirectory>js_css\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>js_css\quill.min.js</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)opensilver.simulator\3.0.0\contentFiles\any\any\simulator_root.html" Condition="Exists('$(NuGetPackageRoot)opensilver.simulator\3.0.0\contentFiles\any\any\simulator_root.html')">
+      <NuGetPackageId>OpenSilver.Simulator</NuGetPackageId>
+      <NuGetPackageVersion>3.0.0</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <Pack>false</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>simulator_root.html</TargetPath>
+      <Private>True</Private>
+      <Link>simulator_root.html</Link>
+    </None>
+  </ItemGroup>
+  <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <PkgOpenSilver Condition=" '$(PkgOpenSilver)' == '' ">C:\Users\jdoep\.nuget\packages\opensilver\3.0.0</PkgOpenSilver>
+    <PkgMicrosoft_Xaml_Behaviors_Wpf Condition=" '$(PkgMicrosoft_Xaml_Behaviors_Wpf)' == '' ">C:\Users\jdoep\.nuget\packages\microsoft.xaml.behaviors.wpf\1.1.19</PkgMicrosoft_Xaml_Behaviors_Wpf>
+    <PkgMicrosoft_Web_WebView2 Condition=" '$(PkgMicrosoft_Web_WebView2)' == '' ">C:\Users\jdoep\.nuget\packages\microsoft.web.webview2\1.0.1905-prerelease</PkgMicrosoft_Web_WebView2>
+    <PkgMahApps_Metro Condition=" '$(PkgMahApps_Metro)' == '' ">C:\Users\jdoep\.nuget\packages\mahapps.metro\2.4.9</PkgMahApps_Metro>
+    <PkgOpenSilver_Simulator Condition=" '$(PkgOpenSilver_Simulator)' == '' ">C:\Users\jdoep\.nuget\packages\opensilver.simulator\3.0.0</PkgOpenSilver_Simulator>
+  </PropertyGroup>
+</Project>
