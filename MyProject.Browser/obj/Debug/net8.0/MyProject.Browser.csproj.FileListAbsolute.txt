@@ -1232,3 +1232,4 @@ C:\Users\jdoep\source\repos\2024\vscodeTest\MyProject.Browser\obj\Debug\net8.0\M
 C:\Users\jdoep\source\repos\2024\vscodeTest\MyProject.Browser\obj\Debug\net8.0\refint\MyProject.Browser.dll
 C:\Users\jdoep\source\repos\2024\vscodeTest\MyProject.Browser\obj\Debug\net8.0\MyProject.Browser.pdb
 C:\Users\jdoep\source\repos\2024\vscodeTest\MyProject.Browser\obj\Debug\net8.0\ref\MyProject.Browser.dll
+C:\Users\jdoep\source\repos\2024\vscodeTest\MyProject.Browser\obj\Debug\net8.0\MyProject.Browser.sourcelink.json

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MyProject.Browser")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fatal: not a git repository (or any of the parent directories): .git")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b8fb7409-dirty")]
 [assembly: System.Reflection.AssemblyProductAttribute("MyProject.Browser")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MyProject.Browser")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
