@@ -369,5 +369,6 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
-MyProject.Browser/bin
-MyProject.Browser/obj/Debug
+# Ignore generated files
+MyProject.Browser/bin/
+MyProject.Browser/obj/
