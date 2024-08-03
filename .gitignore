@@ -369,17 +369,4 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
-MyProject.Browser/bin/Debug/net8.0/MyProject.Browser.dll
-MyProject.Browser/bin/Debug/net8.0/MyProject.Browser.pdb
-MyProject.Browser/bin/Debug/net8.0/MyProject.dll
-MyProject.Browser/bin/Debug/net8.0/MyProject.pdb
-MyProject.Browser/bin/Debug/net8.0/wwwroot/_framework/blazor.boot.json
-MyProject.Browser/bin/Debug/net8.0/wwwroot/_framework/blazor.boot.json.gz
-MyProject.Browser/bin/Debug/net8.0/wwwroot/_framework/MyProject.Browser.pdb
-MyProject.Browser/bin/Debug/net8.0/wwwroot/_framework/MyProject.Browser.pdb.gz
-MyProject.Browser/bin/Debug/net8.0/wwwroot/_framework/MyProject.Browser.wasm
-MyProject.Browser/bin/Debug/net8.0/wwwroot/_framework/MyProject.Browser.wasm.gz
-MyProject.Browser/bin/Debug/net8.0/wwwroot/_framework/MyProject.pdb
-MyProject.Browser/bin/Debug/net8.0/wwwroot/_framework/MyProject.pdb.gz
-MyProject.Browser/bin/Debug/net8.0/wwwroot/_framework/MyProject.wasm
-MyProject.Browser/bin/Debug/net8.0/wwwroot/_framework/MyProject.wasm.gz
+MyProject.Browser/bin
