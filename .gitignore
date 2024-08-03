@@ -372,3 +372,4 @@ FodyWeavers.xsd
 # Ignore generated files
 MyProject.Browser/bin/
 MyProject.Browser/obj/
+MyProject.Simulator/obj/
