@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34310.174
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyProject.Browser", "MyProject.Browser\MyProject.Browser.csproj", "{79254849-EE14-42B2-82CB-07A7D4FA3205}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyProject.Browser", "MyProject.Browser\MyProject.Browser.csproj", "{79254849-EE14-42B2-82CB-07A7D4FA3205}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyProject", "MyProject\MyProject.csproj", "{052AA0E1-BF65-4EE4-B6D3-112AE3350154}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyProject", "MyProject\MyProject.csproj", "{052AA0E1-BF65-4EE4-B6D3-112AE3350154}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyProject.Simulator", "MyProject.Simulator\MyProject.Simulator.csproj", "{E5006009-F128-4902-AD10-D55E7942946A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyProject.Simulator", "MyProject.Simulator\MyProject.Simulator.csproj", "{E5006009-F128-4902-AD10-D55E7942946A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
