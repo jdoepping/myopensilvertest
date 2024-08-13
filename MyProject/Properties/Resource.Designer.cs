@@ -59,5 +59,23 @@ namespace MyProject.Properties {
                 resourceCulture = value;
             }
         }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to MyFirst Text.
+        /// </summary>
+        internal static string Text01 {
+            get {
+                return ResourceManager.GetString("Text01", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to My Second Text.
+        /// </summary>
+        internal static string Text02 {
+            get {
+                return ResourceManager.GetString("Text02", resourceCulture);
+            }
+        }
     }
 }

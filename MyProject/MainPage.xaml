@@ -8,6 +8,6 @@
 
     <Canvas Background="White">
         <TextBlock Text="Hello, World1!" FontSize="23" Canvas.Left="30" Canvas.Top="30"/>
-        <TextBlock Text="{StaticResource Text01}" FontSize="23" Canvas.Left="30" Canvas.Top="50"/>
+        <TextBlock Text="{Binding Text01}" FontSize="23" Canvas.Left="30" Canvas.Top="50"/>
     </Canvas>
 </Page>
