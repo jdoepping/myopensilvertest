@@ -14,6 +14,7 @@ namespace MyProject
             this.InitializeComponent();
 
             // Enter construction logic here...
+             string PreviousDealResource = Properties.Resources.Text01;
         }
     }
 }
