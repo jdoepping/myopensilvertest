@@ -30,6 +30,13 @@
   </ItemGroup>
 
   <ItemGroup>
+    <Content Include="Images\Help.png" />
+    <Content Include="Images\hjerter.png" />
+    <Content Include="Images\hjerter20.png" />
+    <Content Include="Images\hjerterBtn.png" />
+  </ItemGroup>
+
+  <ItemGroup>
     <EmbeddedResource Include="Properties\Resource.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resource.Designer.cs</LastGenOutput>
