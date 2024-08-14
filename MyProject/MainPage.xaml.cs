@@ -4,6 +4,7 @@ using System.IO;
 using System.Linq;
 using System.Windows;
 using System.Windows.Controls;
+using OpenSilver;
 using static MyProject.MainPage;
 
 namespace MyProject
@@ -21,6 +22,7 @@ namespace MyProject
 
         public string Text01 => Properties.Resource.Text01;
         public string HeartsImage => ImageResourcesEnum.Hearts.ToFileName();
+        public string SpadeImage => ImageResourcesEnum.Spades.ToFileName();
         public enum ImageResourcesEnum
         {
             Transparent,
@@ -62,7 +64,11 @@ namespace MyProject
                 default:
                     throw new ArgumentOutOfRangeException(nameof(resource), resource, null);
             }
-            return $"../../../../../images/{resource}.png";
+            string currentDirectory = Environment.CurrentDirectory;
+            Interop.ExecuteJavaScript("alert($0)", currentDirectory);
+            var s=  $"../../../../../images/{resource}.png";
+            Interop.ExecuteJavaScript("alert($0)", s);
+            return s;
         }
     }
 

@@ -373,3 +373,6 @@ FodyWeavers.xsd
 MyProject.Browser/bin/
 MyProject.Browser/obj/
 MyProject.Simulator/obj/
+
+# Exclude wwwroot/resources folder
+MyProject.Browser/wwwroot/resources

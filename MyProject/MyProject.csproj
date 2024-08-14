@@ -34,6 +34,7 @@
     <Content Include="Images\hjerter.png" />
     <Content Include="Images\hjerter20.png" />
     <Content Include="Images\hjerterBtn.png" />
+    <Content Include="Images\spar.png" />
   </ItemGroup>
 
   <ItemGroup>

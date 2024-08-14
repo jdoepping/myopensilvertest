@@ -10,5 +10,6 @@
         <TextBlock Text="Hello, World1!" FontSize="23" Canvas.Left="30" Canvas.Top="30"/>
         <TextBlock Text="{Binding Text01}" FontSize="23" Canvas.Left="30" Canvas.Top="50"/>
         <Image Source="{Binding HeartsImage}" Canvas.Left="30" Canvas.Top="70"/>
+        <Image Source="{Binding SpadeImage}" Canvas.Left="30" Canvas.Top="90"/>
     </Canvas>
 </Page>
