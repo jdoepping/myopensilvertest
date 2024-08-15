@@ -375,4 +375,8 @@ MyProject.Browser/obj/
 MyProject.Simulator/obj/
 
 # Exclude wwwroot/resources folder
-MyProject.Browser/wwwroot/resources
+# The resources folder is added automatically, including files, depending on 
+# the settings in MyProject.proj, how the static resources are included. 
+# In vscode the generation fails because the folder is mangled "resources/\myproject\images" resulting 
+# in a new being created. This then leads to the resources being duplicated causing and error.
+# MyProject.Browser/wwwroot/resources
