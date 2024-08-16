@@ -61,9 +61,9 @@ namespace MyProject
                     throw new ArgumentOutOfRangeException(nameof(resource), resource, null);
             }
             string currentDirectory = Environment.CurrentDirectory;
-            Interop.ExecuteJavaScript("alert($0)", currentDirectory);
+            //Interop.ExecuteJavaScript("alert($0)", currentDirectory);
             var s=  $"../../../../../images/{resource}.png";
-            Interop.ExecuteJavaScript("alert($0)", s);
+            //Interop.ExecuteJavaScript("alert($0)", s);
             return s;
         }
     }
