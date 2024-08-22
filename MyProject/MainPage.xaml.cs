@@ -18,6 +18,8 @@ namespace MyProject
 
         public string Text01 => Properties.Resource.Text01;
         public string Text02 => Properties.Resource.Text02;
+        public string Text03 => Properties.Resource.Text03;
+
         public string HeartsImage => ImageResourcesEnum.Hearts.ToFileName();
         public string SpadeImage => ImageResourcesEnum.Spades.ToFileName();
         public enum ImageResourcesEnum
