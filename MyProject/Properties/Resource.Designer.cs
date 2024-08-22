@@ -77,5 +77,10 @@ namespace MyProject.Properties {
                 return ResourceManager.GetString("Text02", resourceCulture);
             }
         }
+        internal static string Text03 {
+            get {
+                return ResourceManager.GetString("Text03", resourceCulture);
+            }
+        }
     }
 }
